@@ -1,5 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.patter.2026.101514
+  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+  authors:
+  - Dave Bunten
+  - Jenna Tomkinson
+  - Erik Serrano
+  - Michael J. Lippincott
+  - Kenneth I. Brewer
+  - Vince Rubinetti
+  - Faisal Alquaddoomi
+  - Gregory P. Way
+  publisher: Patterns
+  date: '2026-05-01'
+  link: https://doi.org/hbvg3p
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.06.19.660613
+  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+  authors:
+  - Dave Bunten
+  - Jenna Tomkinson
+  - Erik Serrano
+  - Michael J. Lippincott
+  - Kenneth I. Brewer
+  - Vince Rubinetti
+  - Faisal Alquaddoomi
+  - Gregory P. Way
+  publisher: openRxiv
+  date: '2025-06-25'
+  link: https://doi.org/g9rfr3
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/nar/gkad1082
   title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
     \ genes\_and diseases across species"
@@ -64,7 +98,7 @@
   - Casey S. Greene
   - Sean Davis
   - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-10-11'
   link: https://doi.org/gsvf5z
   orcid: 0000-0002-4655-3773
@@ -106,7 +140,7 @@
   - Blair D. Sullivan
   - Michael W. Nagle
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-01-07'
   link: https://doi.org/grmcb9
   orcid: 0000-0002-4655-3773
@@ -138,19 +172,20 @@
   title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
     and phylogeny'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
   - Faisal S Alquaddoomi
+  - Joseph T Burke
+  - Lo Sosinski
+  - David A Mayer
   - Evan P Brenner
+  - Samuel Z Chen
+  - Jacob D Krol
   - Ethan P Wolfe
   - Vincent P Rubinetti
   - Shaddai Amolitos
   - Kellen M Reason
   - John B Johnston
   - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-02-22'
   link: https://doi.org/gstx7j
   orcid: 0000-0002-4655-3773
@@ -212,7 +247,7 @@
   - Vincent Rubinetti
   - Daniel S. Himmelstein
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-03-11'
   link: https://doi.org/gfxjxf
   orcid: 0000-0002-4655-3773
@@ -245,24 +280,3 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/TNNLS.2024.3499996
-  title: Clustering Interval and Triangular Granular Data Modeling, Execution, and Assessment
-  authors:
-  - Tang Yiming
-  -  Wu Wenbin
-  - Pedrycz Witold
-  - Gao Jianwei
-  - Hu Xianghui
-  - Deng Zhaohong
-  - Chen Rui
-  publisher: IEEE
-  date: '04 December 2024'
-  link: https://ieeexplore.ieee.org/abstract/document/10777923
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  description: First, we improve the previous density radius and present the RSGG algorithm to acquire numeric representatives. Second, we propose a new strategy to determine granular data boundaries and further obtain novel weights enlightened by the idea of volume. Lastly, we employ the kernel function to calculate the distance between granular data, which has a stronger spatial division ability than the previous Euclidean distance.
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
